@@ -11,6 +11,9 @@ Below is a list of active free OP servers in Minecraft. Feel free to contribute 
 |     Flame.ga     |            flame.ga           |     Cracked     |            Yes            |   Allowed   |      Yes       |
 |     FreeOPMC     |       play.freeopmc.com       |     Premium     |            Yes            |   Allowed   |      Yes       |
 |     MaiCraft     |       69.162.95.99:26897      |     Premium     |            Yes            |   Allowed   |      Yes       |
-|    UniqueCraft   |      play.uniquecraft.eu      |     Premium     |            Yes            |   Allowed   |       No       |
+|    UniqueCraft   |      play.uniquecraft.eu      |     Premium     |            Yes            |   Allowed   |       No 
+|
+|   TotalFreedom   |      play.totalfreedom.me     |     Both        | Need to be opped by admin |   Hell nah  |       Yes    
 
-Last updated on April 17, 2016
+
+Last updated on November 27, 2017
